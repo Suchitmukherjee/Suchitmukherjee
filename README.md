@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Oracle Apex Developer & Freelancing Flutter Projects<br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with Front end Technology<br>🌱 I’m currently learning<br>💬 Ask me about any Life Hack<br>⚡ Fun fact
+🔭 👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with Front end Technology<br>🌱 I’m currently learning<br>💬 Ask me about any Life Hack<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
